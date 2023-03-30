@@ -1,0 +1,15 @@
+{
+    "current": {
+        "difference": 10,
+        "percentage": 45,
+        "isPlus": true,
+        "color": "#416BFF"
+    },
+    "trend": {
+        "positive": true,
+        "color": "#416BFF"
+    },
+    "target": {
+        "percentage": 60
+    }
+}
